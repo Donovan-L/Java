@@ -1,4 +1,4 @@
-import java.until.Arrays;
+import java.util.Arrays;
 class Array1 {
   public static void main (String a[]){
     int i;
